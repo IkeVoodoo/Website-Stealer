@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Website Stealer">
+    <output-path>$PROJECT_DIR$/out/artifacts/Website_Stealer</output-path>
+    <root id="archive" name="Website Stealer.jar">
+      <element id="module-output" name="Website Stealer" />
+    </root>
+  </artifact>
+</component>
